@@ -1,0 +1,49 @@
+.menu1 {
+    display: flex;
+    justify-content: center;
+    background-color: grey;
+    margin: 30px;
+    padding: 5px;
+    border: 5px dotted pink;
+}
+
+.item1 {
+    margin: 10px;
+    padding: 5px;
+    border: 5px dotted pink;
+    background-color: white;
+}
+
+.menu2 {
+    display: flex;
+    justify-content: center;
+    background-color: #ff575f;
+    margin: 30px;
+    padding: 5px;
+    border: 5px dotted #478eff;
+}
+
+.item2 {
+    margin: 10px;
+    padding: 5px;
+    border: 5px dotted #478eff;
+    background-color: white;
+}
+
+.menu3 {
+    display: flex;
+    justify-content: center;
+    background-color: #ff57ff;
+    margin: 30px;
+    padding: 5px;
+    border: 5px dotted #ffa857;
+}
+
+.item3 {
+    margin: 10px;
+    padding: 5px;
+    border: 5px dotted #ffa857;
+    background-color: white;
+}
+
+
